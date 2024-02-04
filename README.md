@@ -1,7 +1,7 @@
 - 👋 Hi, I’m BOUDRIOU Allaoua
-- 👀 I’m a junior Web Developer.
-- 🌱 I’m currently developping my skills by building full MERN stack projects.
+- 👀 I’m a Web Developer.
+- 🌱 I’m currently developping my skills by building full MERN stack projects and Mobile apps using Expo.
 - 📫 How to reach me : allaoua.boudriou@gmail.com
 - My current skills:
-      -Frontend: HTML, CSS , Javascript, ReactJs, React Router v6.
+      -Frontend: HTML, CSS , Javascript, ReactJs, Typescript, React Router v6, React Native (Expo).
       -Backend: NodeJS, ExpressJs, MongoDB, Mongoose.
